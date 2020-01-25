@@ -1,0 +1,152 @@
+body
+{
+background-image: url(../img/brickwall.png);
+/* Background pattern from https://www.toptal.com/designers/subtlepatterns/  */
+}
+
+.main-page 
+{
+    background-color: rgb(51, 111, 131);
+    width: 1100px;
+    height: 700px;
+    margin: auto;  
+}
+
+.top-bar
+{
+    background-color: rgb(96, 106, 107);
+    width: 1100px;
+    height: 60px;
+    margin: auto;
+
+}
+
+.contact
+{
+    background-color: red;
+    width: 550px;
+    height: 60px;
+    margin: auto;
+    float: left;
+    text-align: center;
+
+}
+
+.basket
+{
+    background-color: green;
+    width: 550px;
+    height: 60px;
+    margin: auto;
+    float: left;
+    text-align: center;
+}
+
+.logo-serch-bar
+{
+    background-color: rgb(96, 106, 107);
+    width: 1100px;
+    height: 140px;
+    margin: auto;
+
+}
+
+.logo
+{
+    background-image: url(../img/logo.jpg);
+    width: 800px;
+    height: 140px;
+    margin: auto;
+    float: left;
+}
+
+.serch
+{
+    background-color: white;
+    width: 300px;
+    height: 140px;
+    margin: auto;
+    float: left;
+
+}
+
+.nav-bar
+{
+    background-color:rgb(116, 74, 68);
+    width: 1100px;
+    height: 45px;
+    margin: auto;
+}
+
+.nav-button
+{
+    width: 175px;
+    height: 45px;
+    display: inline-block;
+    font-style: italic;
+    font-weight: bolder;
+    font-size: 18px;
+    margin-top: 12px;
+}
+
+.recomended
+{
+    height: 50px;
+    background-color:white;
+
+}
+
+#category 
+{
+    display: inline-block;
+    margin-left: 20px;
+}
+
+.pictures 
+{
+    width: 266px;
+    height: 266px;
+    background-size: cover;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: solid;
+    border-width: thick;
+}
+
+#pic1
+{
+    background-image: url(../img/odkurzacz.jpg)
+}
+#pic2
+{
+    background-image: url(../img/zyrafa.jpg)
+}
+#pic3
+{
+    background-image: url(../img/szlifierka.jpg)
+}
+#pic4
+{
+    background-image: url(../img/mlot.jpg)
+}
+#pic5
+{
+    background-image: url(../img/generator.jpg)
+}
+#pic6
+{
+    background-image: url(../img/betoniarka.jpg)
+}
+#pic7
+{
+    background-image: url(../img/myjka.jpg)
+}
+#pic8
+{
+    background-image: url(../img/kosiarka.jpg)
+}
+
+.img-container 
+{
+    float: left;
+}
